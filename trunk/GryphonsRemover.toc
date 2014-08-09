@@ -1,5 +1,5 @@
-## Interface: 50400
+## Interface: 60000
 ## Title: Gryphons Remover
-## Version: v5.4
+## Version: v6.0 WoD Beta
 ## Notes: Simply removes the Gryphons from your Buttonbar
 GryphonsRemover.xml
