@@ -1,5 +1,9 @@
-## Interface: 60200
+## Interface: 70000
 ## Title: Gryphons Remover
-## Version: v6.2
+## Version: v7.0
 ## Notes: Simply removes the Gryphons from your Buttonbar
+## X-Curse-Packaged-Version: r17
+## X-Curse-Project-Name: Gryphons Remover
+## X-Curse-Project-ID: gryphons-remover
+## X-Curse-Repository-ID: wow/gryphons-remover/mainline
 GryphonsRemover.xml
