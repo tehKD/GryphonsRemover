@@ -1,6 +1,6 @@
-## Interface: 70100
+## Interface: 70200
 ## Title: Gryphons Remover
-## Version: v7.1
+## Version: v7.2
 ## Notes: Simply removes the Gryphons from your Buttonbar
 ## X-Curse-Packaged-Version: r17
 ## X-Curse-Project-Name: Gryphons Remover
