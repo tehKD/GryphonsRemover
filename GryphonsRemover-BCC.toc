@@ -1,5 +1,5 @@
-## Interface: 90100
-## Version: v9.1.0
+## Interface: 20502
 ## Title: Gryphons Remover
+## Version: v2.5.2
 ## Notes: Simply removes the Gryphons from your Buttonbar
-GryphonsRemover.xml
+GryphonsRemover-Classic.xml
